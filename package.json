@@ -24,7 +24,7 @@
     "solium": "^1.2.5"
   },
   "devDependencies": {
-    "@openzeppelin/test-helpers": "^0.5.15",
+    "@openzeppelin/test-helpers": "^0.5.16",
     "chai": "^4.3.4",
     "ethereumjs-abi": "^0.6.8",
     "ethereumjs-util": "^6.2.0",
